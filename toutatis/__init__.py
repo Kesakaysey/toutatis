@@ -1,1 +1,1 @@
-from toutatis.core import *
+fromfrom toutatis.core import *
